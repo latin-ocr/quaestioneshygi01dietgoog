@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestioneshygi01dietgoog_0005.png"; bbox 0 0 2896 5130; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1015 4106 1345 4260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1015 4106 1345 4260">
+     <span class='ocr_line' id='line_1_1' title="bbox 1141 4106 1221 4154; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 1141 4106 1184 4154; x_wconf 89' lang='lat' dir='ltr'>Nr.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1207 4118 1221 4153; x_wconf 92' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1015 4191 1345 4260; baseline -0.018 -14"><span class='ocrx_word' id='word_1_3' title='bbox 1015 4196 1200 4260; x_wconf 73' lang='lat' dir='ltr'>Rectoratsjahr</span> <span class='ocrx_word' id='word_1_4' title='bbox 1223 4191 1345 4256; x_wconf 63' lang='lat'>1890191.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1111 4474 1436 4623">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1111 4474 1436 4623">
+     <span class='ocr_line' id='line_1_3' title="bbox 1111 4474 1436 4544; baseline 0 -14"><span class='ocrx_word' id='word_1_5' title='bbox 1111 4482 1279 4544; x_wconf 78' lang='lat' dir='ltr'>Imprimatur:</span> <span class='ocrx_word' id='word_1_6' title='bbox 1304 4477 1331 4531; x_wconf 72' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1352 4474 1436 4544; x_wconf 71' lang='lat' dir='ltr'><strong>Glogu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1179 4570 1384 4623; baseline 0 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1179 4571 1205 4623; x_wconf 85' lang='lat' dir='ltr'>h.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1227 4580 1245 4618; x_wconf 89' lang='lat' dir='ltr'>t.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1267 4570 1384 4619; x_wconf 79' lang='lat' dir='ltr'>decanus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1452 5130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1452 5130">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1452 5130; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1452 5130; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
